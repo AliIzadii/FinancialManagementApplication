@@ -20,6 +20,10 @@ This is a mobile application developed using the Dart programming language and t
 
 To run this project, you will need to have Flutter installed on your local machine. If you don't have Flutter installed, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
+## Screenshots
+
+![Home Screen](assets/images/image.png)
+
 ## Project Structure
 
 - `lib/`: Contains the main source code for the Flutter application.
