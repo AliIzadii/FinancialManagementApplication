@@ -20,27 +20,19 @@ This is a mobile application developed using the Dart programming language and t
 
 To run this project, you will need to have Flutter installed on your local machine. If you don't have Flutter installed, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
-## Installation
+## Project Structure
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/aliIzadii/FinancialManagementApplication.git
-    ```
+- `lib/`: Contains the main source code for the Flutter application.
+- `assets/`: Contains any images, fonts, and other assets used in the application.
+- `pubspec.yaml`: Manages the Flutter project's dependencies.
 
-2. Navigate to the project directory:
-    ```bash
-    cd quizGame
-    ```
+## How To Use
 
-3. Install dependencies:
-    ```bash
-    flutter pub get
-    ```
+1. Clone The Repository
 
-4. Run the application:
-    ```bash
-    flutter run
-    ```
+2. Get the dependencies: Run `flutter pub get`
+
+3. Run the application: Run `flutter run`
 
 ## Contact
 
