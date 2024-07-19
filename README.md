@@ -16,12 +16,28 @@ This is a mobile application developed using the Dart programming language and t
 
 - **Search Functionality**: Users can search for specific transactions, making it easy to find and review past financial records.
 
-## How to Use
+## Installation
 
-To run this application:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/aliIzadii/FinancialManagementApplication.git
+    ```
 
-1. Clone this repository.
-2. Ensure you have Flutter installed.
-3. Run the app using `flutter run` command in the project directory.
+2. Navigate to the project directory:
+    ```bash
+    cd quizGame
+    ```
 
-Feel free to contribute, report issues, or suggest enhancements to help improve this personal finance management application!
+3. Install dependencies:
+    ```bash
+    flutter pub get
+    ```
+
+4. Run the application:
+    ```bash
+    flutter run
+    ```
+
+## Contact
+
+For any questions or feedback, please contact [Ali Izadi](mailto:ali.izadi.ce@gmail.com).
