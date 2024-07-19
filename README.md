@@ -16,6 +16,10 @@ This is a mobile application developed using the Dart programming language and t
 
 - **Search Functionality**: Users can search for specific transactions, making it easy to find and review past financial records.
 
+## Getting Started
+
+To run this project, you will need to have Flutter installed on your local machine. If you don't have Flutter installed, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
+
 ## Installation
 
 1. Clone the repository:
