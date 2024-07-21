@@ -1,4 +1,4 @@
-# Personal Finance Management App
+# Personal Finance Management Application
 
 This is a mobile application developed using the Dart programming language and the Flutter framework. The app focuses on enabling users to efficiently manage their personal finances by tracking their income and expenses  (The application is in Persian).
 
